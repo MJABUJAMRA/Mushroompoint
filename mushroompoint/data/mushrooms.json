@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Chanterelle",
+    "edible": true,
+    "habitat": ["forest", "coniferous"],
+    "season": ["summer", "autumn"],
+    "notes": "Fruity aroma with ridged gills and a golden hue."
+  },
+  {
+    "name": "Porcini",
+    "edible": true,
+    "habitat": ["forest", "deciduous"],
+    "season": ["summer", "autumn"],
+    "notes": "Meaty texture, prized for rich umami flavor."
+  },
+  {
+    "name": "Morel",
+    "edible": true,
+    "habitat": ["forest", "burn area"],
+    "season": ["spring", "early summer"],
+    "notes": "Honeycomb-like caps; must be cooked thoroughly."
+  },
+  {
+    "name": "Fly Agaric",
+    "edible": false,
+    "habitat": ["forest", "pine"],
+    "season": ["late summer", "autumn"],
+    "notes": "Iconic red cap with white spots; toxic when raw."
+  },
+  {
+    "name": "Oyster Mushroom",
+    "edible": true,
+    "habitat": ["logs", "urban", "forest"],
+    "season": ["autumn", "winter"],
+    "notes": "Delicate texture that cooks quickly."
+  }
+]
